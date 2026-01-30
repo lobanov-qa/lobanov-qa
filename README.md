@@ -9,8 +9,20 @@
 
 ## 📊 **Активность**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lobanov-qa&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/lobanov-qa/github-stats/main/github_stats.svg" alt="GitHub Stats" />
+        <br />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats-tan-three.vercel.app?user=lobanov-qa&theme=dracula&hide_total_contributions=true" alt="GitHub Streak" />
+        <br />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
