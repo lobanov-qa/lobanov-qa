@@ -9,20 +9,10 @@
 
 ## 📊 **Активность**
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://raw.githubusercontent.com/lobanov-qa/github-stats/main/github_stats.svg" alt="GitHub Stats" />
-        <br />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats-tan-three.vercel.app?user=lobanov-qa&theme=dracula&hide_total_contributions=true" alt="GitHub Streak" />
-        <br />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lobanov-qa/github-stats/main/github_stats.svg" alt="GitHub Stats" width="49%">
+  <img src="https://github-readme-streak-stats-tan-three.vercel.app?user=lobanov-qa&theme=dracula&card_width=300&hide_total_contributions=true" alt="GitHub Streak" width="49%">
+</p>
 
 ---
 
