@@ -9,16 +9,34 @@
 
 ## 📊 **Активность**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lobanov-qa/github-stats/main/github_stats.svg" alt="GitHub Stats" width="40%">
-  <img src="https://github-readme-streak-stats-tan-three.vercel.app?user=lobanov-qa&theme=dracula&hide_border=true&card_width=280&card_height=190&hide_total_contributions=true" alt="GitHub Streak" width="51%">
-</p>
-
-<p align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lobanov-qa&theme=dracula" alt="Profile Details" />
-
-</p>
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <!-- ЛЕВАЯ КОЛОНКА: GitHub Stats -->
+      <td valign="top" width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/lobanov-qa/github-stats/main/github_stats.svg?cache=1" alt="GitHub Stats" width="480" />
+      </td>
+       <!-- ПРАВАЯ КОЛОНКА: Streak + Profile -->
+      <td valign="top" width="50%" align="center">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+            <td align="center">
+              <img src="https://github-readme-streak-stats-tan-three.vercel.app?user=lobanov-qa&theme=dracula&hide_border=true&card_width=280" alt="GitHub Streak" width="360" />
+            </td>
+          </tr>
+          <tr>
+            <td height="10"></td> <!-- Отступ между карточками -->
+          </tr>
+          <tr>
+            <td align="center">
+              <img src="http://github-profile-summary-cards-chi.vercel.app/api/cards/profile-details?username=lobanov-qa&theme=dracula&card_width=280" alt="Profile Details" width="360" />
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 <h3 align="left">Languages and Tools:</h3>
