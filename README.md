@@ -1,9 +1,9 @@
 ## 🎯 **Обо мне**
 
-Привет! Меня зовут Евгений, и я стремлюсь перейти в IT как инженер по автоматизации тестирования (AQA). Освоил современный стек  через интенсивное обучение и практические проекты.
+Привет! Меня зовут Евгений, и я стремлюсь перейти в IT как инженер по автоматизации тестирования (AQA). Благодаря интенсивному обучению и практике я освоил современный стек.
 Мой фокус — качественная API-автоматизация с использованием современных практик: Python, Pytest, HTTPX, Pydantic, Allure, Docker, CI/CD
 
-**Цель:** позиция Junior/Middle AQA Engineer с фокусом на создание и поддержку автотестов (API/UI).
+**Цель:** позиция Junior/Middle AQA Engineer, где я смогу заниматься разработкой и поддержкой автотестов для API и UI.
 
 ---
 
@@ -14,7 +14,7 @@
     <tr>
       <!-- ЛЕВАЯ КОЛОНКА: GitHub Stats -->
       <td valign="top" width="50%" align="center">
-        <img src="https://raw.githubusercontent.com/lobanov-qa/github-stats/main/github_stats.svg?cache=1" alt="GitHub Stats" width="480" />
+        <img src="https://github-stats-sigma-nine.vercel.app/github_stats.svg?cache=1" alt="GitHub Stats" width="480" />
       </td>
        <!-- ПРАВАЯ КОЛОНКА: Streak + Profile -->
       <td valign="top" width="50%" align="center">
@@ -39,23 +39,18 @@
 </div>
 
 ---
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>&nbsp;&nbsp;
-</p>
+## 🔧 **Навыки и инструменты**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 
 ---
 
 ## 🚀 **Мои проекты в портфолио**
 
 ### 🔹 **[Pytest RESTful Booker Platform API (в разработке)](https://github.com/lobanov-qa/pytest-booker-platform-api)**
+
 **фреймворк для тестирования микросервисов RESTful Booker Platform - для закрепления знаний и дальнейшего развития(пока в процессе)**
+
 Отличие от учебного проекта:
 - Тестирование микросервисной архитектуры.
 - Вместо Builder Pattern  всё реализовал через Factory Method.
@@ -63,16 +58,22 @@
 - Обновляемую документацию через Zudoku на русском и английском языках.
 - [Единый портал отчетов на GitHub Pages(Allure, Swagger, Docs)](https://lobanov-qa.github.io/pytest-booker-platform-api/)
 
+---
 ### 🔹 **[Автоматизация API-тестов](https://github.com/lobanov-qa/autotests-api)**
+
 **Учебный проект → дал понимание инженерного подхода к построению промышленных тестовых фреймворков.**
+
 - Проектирование тестовых фреймворков: Создание масштабируемой и поддерживаемой архитектуры с нуля.
 - Продвинутое тестирование REST API: Работа с аутентификацией (JWT), валидацией контрактов (JSON Schema, Swagger).
 - Работа с современным стеком: HTTPX (асинхронные запросы), Pydantic (строгая валидация данных), Allure (детальная отчетность).
 - Интеграция в CI/CD: Настройка автоматического запуска тестов в GitHub Actions/GitLab CI.
 - Анализ покрытия: Использование инструмента swagger-coverage-tool для визуализации покрытия API-тестами.
+- 
+---
+### 🔹 **[UI Тестирование c Playwright(в процессе обучения)](https://github.com/lobanov-qa/autotests-ui)**
 
-### 🔹 **[UI Тестирование c Playwright(в процессе обучения)]((https://github.com/lobanov-qa/autotests-ui))**
 **Учебный проект → с фокусом на системном мышлении — как строить решения, которые работают в продакшене, легко масштабируются и поддерживаются командой**
+
 - Проектирование UI-фреймворков: Применение паттернов Page Object, Page Component и авторской реализации Page Factory для создания поддерживаемой структуры.
 - Работа с современными инструментами: Playwright для кросс-браузерного тестирования с автоматическим ожиданием элементов и параллельным выполнением.
 - Интеграция с фронтенд-разработкой: Расстановка data-test-id в React/TypeScript приложениях, подготовка кода к автоматизации.
