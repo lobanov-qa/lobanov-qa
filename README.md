@@ -59,6 +59,8 @@
 ---
 ### 🔹 **[Автоматизация API-тестов](https://github.com/lobanov-qa/autotests-api)**
 
+[![API tests](https://github.com/lobanov-qa/autotests-api/actions/workflows/tests.yml/badge.svg)](https://github.com/lobanov-qa/autotests-api/actions/workflows/tests.yml)
+
 **Учебный проект → дал понимание инженерного подхода к построению промышленных тестовых фреймворков.**
 
 - Проектирование тестовых фреймворков: Создание масштабируемой и поддерживаемой архитектуры с нуля.
@@ -69,6 +71,8 @@
 
 ---
 ### 🔹 **[UI Тестирование c Playwright](https://github.com/lobanov-qa/autotests-ui)**
+
+[![UI tests](https://github.com/lobanov-qa/autotests-ui/actions/workflows/tests.yml/badge.svg)](https://github.com/lobanov-qa/autotests-ui/actions/workflows/tests.yml)
 
 **Учебный проект → с фокусом на системном мышлении — как строить решения, которые работают в продакшене, легко масштабируются и поддерживаются командой**
 
