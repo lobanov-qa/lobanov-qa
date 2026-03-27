@@ -37,7 +37,7 @@
 ---
 ## 🔧 **Навыки и инструменты**
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=flat-square&logo=playwright&logoColor=white) ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=flat-square&logo=pytest&logoColor=2f9fe3) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=flat-square&logo=pytest&logoColor=2f9fe3) ![Pydantic](https://img.shields.io/badge/-pydantic-%23E92063?style=flat-square&logo=pydantic&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=flat-square&logo=playwright&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![Locust](https://img.shields.io/badge/-locust-%2300B075?style=flat-square&logo=locust&logoColor=white) 
 
 ---
 
@@ -82,3 +82,16 @@
 - Визуализация покрытия: Использование уникального инструмента ui-coverage-tool для интерактивного анализа покрытия UI-тестами.
 
 ---
+### 🔹 **[Нагрузочное тестирование с Locust](https://github.com/lobanov-qa/performance-tests)**
+
+[![Performance tests](https://github.com/lobanov-qa/performance-tests/actions/workflows/performance-tests.yml/badge.svg)](https://github.com/lobanov-qa/performance-tests/actions/workflows/performance-tests.yml)
+
+**Учебный проект → погружение в инженерный подход к нагрузочному тестированию: системное понимание микросервисной архитектуры, мониторинга и потока данных**
+
+- **Работа с реалистичным стендом**: Микросервисная банковская система с Kafka, Redis, PostgreSQL, MinIO, Prometheus, Grafana — не изолированные API, а взаимодействующие сервисы.
+- **Поддержка двух протоколов**: Единая архитектура для HTTP и gRPC — унифицированные клиенты, сценарии и подход к нагрузке.
+- **Реалистичные бизнес-сценарии с использованием Locust**: Полноценные потоки (регистрация → пополнение → выпуск карты).
+- **Подготовка тестовых данных (seeding)**: Автоматическое наполнение системы перед тестом через гибкий билдер с привязкой к сценариям.
+- **Наблюдаемость в продакшен-стиле**: Интеграция с Grafana и Prometheus — анализ узких мест, latency, ошибок под нагрузкой.
+- **Собственные моки на FastAPI**: Изоляция зависимостей под нагрузкой — для стабильности и точности тестов.
+
